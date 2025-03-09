@@ -9,4 +9,5 @@
     + Sự phổ biến của thiết bị di động: Điện thoại thông minh ngày càng trở nên phổ biến, nhu cầu về ứng dụng di động cũng tăng cao.
     + Công nghệ tiên tiến: AI, AR/VR, IoT, 5G giúp cải thiện trải nghiệm người dùng và mở ra nhiều cơ hội cho lập trình di động.
     + Thị trường việc làm: Nhiều công ty công nghệ lớn vẫn tập trung phát triển ứng dụng di động, tạo ra nhiều cơ hội nghề nghiệp.
+    
 -> Câu 3:
